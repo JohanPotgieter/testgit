@@ -1,2 +1,3 @@
 # testgit
-For testing Git
+
+This is to test uploading and Merging with GitHub on Atom Editor.
